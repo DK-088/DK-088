@@ -65,11 +65,6 @@ Tools:          Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
   - Python for Data Science
   - Introduction to Machine Learning (Tamil)
 
-### 📈 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakK&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakK&layout=compact&theme=radical)
 
 ### 📫 Contact Me
 
