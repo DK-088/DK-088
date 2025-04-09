@@ -74,4 +74,4 @@ Tools:          Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
 
 ---
 
-⭐️ From [DeepakK](https://github.com/DeepakK)
+⭐️ From [DEEPAK K](https://github.com/DK-088)
