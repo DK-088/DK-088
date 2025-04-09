@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Data Scientist | Junior Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/Deepak%20K)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://deepak%20k.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/dk088)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://dk-088.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:deepakkjc088@gmail.com)
 
 ### 🙋‍♂️ About Me
