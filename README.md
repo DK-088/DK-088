@@ -13,11 +13,11 @@ Enthusiastic Computer Science student with hands-on experience as a Full Stack D
 ### 🛠️ Tech Stack
 
 ```
-Languages:              HTML, CSS, JavaScript, TypeScript, PHP, Python, Java
-Frameworks & Libraries: Angular, Bootstrap
-Data Science:           NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Mediapipe
-Databases:              MySQL, MongoDB
-Tools:                  Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
+Languages:                HTML, CSS, JavaScript, TypeScript, PHP, Python, Java
+Frameworks & Libraries:   Angular, Bootstrap
+Data Science:             NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Mediapipe
+Databases:                MySQL, MongoDB
+Tools:                    Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
 
 ```
 
