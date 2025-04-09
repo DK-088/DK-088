@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Data Scientist | Junior Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/dk088)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dk088)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://dk-088.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:deepakkjc088@gmail.com)
 
