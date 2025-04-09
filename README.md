@@ -14,7 +14,7 @@ Enthusiastic Computer Science student with hands-on experience as a Full Stack D
 
 ```
 Languages:                HTML, CSS, JavaScript, TypeScript, PHP, Python, Java
-Frameworks & Libraries:   Angular, Bootstrap
+Frameworks & Libraries:   Angular, Bootstrap, Hibernate, Spring 
 Data Science:             NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Mediapipe
 Databases:                MySQL, MongoDB
 Tools:                    Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
