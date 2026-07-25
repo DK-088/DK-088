@@ -1,195 +1,219 @@
-# Deepak K
+<h1 align="center">Hi 👋, I'm Deepak K</h1>
 
-## Data Scientist | Software Engineer
+<h3 align="center">
+Software Engineer • React.js Developer • ERPNext Developer • Data Science Enthusiast
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;React.js+Developer;ERPNext+Developer;Full+Stack+Developer;Data+Science+Enthusiast" />
+</p>
 
-## About Me
+<p align="center">
+<a href="https://www.linkedin.com/in/dk088">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Software Engineer with experience in React.js, ERPNext, Frappe Framework, and Full Stack Web Development. Passionate about building scalable web applications, customizing ERP solutions, and developing data-driven applications. Strong foundation in Data Science, software development, and database management with an interest in solving real-world business problems through technology.
+<a href="mailto:deepakkjc088@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
-
-## Technical Skills
-
-### Programming Languages
-
-* Python
-* JavaScript
-* TypeScript
-* Java
-* PHP
-* HTML5
-* CSS3
-
-### Frameworks & Libraries
-
-* React.js
-* Angular
-* Bootstrap
-* Spring Framework
-* Frappe Framework
-* ERPNext
-
-### Data Science & Machine Learning
-
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
-* OpenCV
-* MediaPipe
-
-### Databases
-
-* MySQL
-* MongoDB
-* MariaDB
-
-### Tools & Technologies
-
-* Git & GitHub
-* REST APIs
-* Docker
-* Linux
-* Tableau
-* Microsoft Excel
-
-### Core Skills
-
-* ERPNext Customization
-* Frappe Application Development
-* Full Stack Development
-* API Integration
-* Dashboard Development
-* Report Development
-* Database Design
-* Software Analysis
-* Problem Solving
-* System Optimization
+<a href="https://dk-088.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+</a>
+</p>
 
 ---
 
-## Education
+# About Me
 
-### Master of Computer Applications (MCA)
+Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framework**, **Python**, and **Data Science**.
 
-**University of Madras – Institute of Distance Education**
-
-**September 2025 – May 2027** *(Pursuing)*
-
-Currently pursuing a Master of Computer Applications (MCA) with a focus on Software Development, Database Management, Web Technologies, Data Analytics, and Emerging Computing Technologies. Continuously enhancing technical expertise through academic coursework, hands-on projects, and industry-oriented learning in Python, SQL, React.js, ERPNext, and Data Science.
-
----
-
-### Bachelor of Science in Computer Science with Data Science
-
-**St. Thomas College of Arts and Science, Chennai**
-
-University of Madras
-
-**2022 – 2025**
-
-**CGPA:** 8.38
+- 🔭 Software Engineer @ Innoblitz Technologies
+- 🎓 Pursuing MCA - University of Madras
+- 💻 React.js & ERPNext Developer
+- 📊 Data Science Enthusiast
+- 🌱 Learning AI, Machine Learning & Cloud
 
 ---
 
-## Professional Experience
+# Tech Stack
 
-### Software Engineer
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,java,php,html,css,mysql,mongodb,docker,git,linux,bootstrap"/>
+
+</p>
+
+---
+
+# Professional Experience
+
+## Software Engineer
 
 **Innoblitz Technologies and Systems Pvt. Ltd.**
 
-**September 2025 – Present**
+📅 Sep 2025 - Present
 
-Chennai, Tamil Nadu, India (On-site)
-
-**Key Responsibilities**
-
-* Develop modern web applications using React.js and MySQL with a focus on performance and scalability.
-* Customize ERPNext and Frappe applications based on business requirements.
-* Design and develop custom ERP modules, reports, dashboards, and workflows.
-* Integrate REST APIs and third-party services to automate business processes.
-* Optimize existing applications, reducing manual work and improving operational efficiency.
-* Collaborate with cross-functional teams throughout the software development lifecycle.
+- React.js Development
+- ERPNext Customization
+- Frappe Framework
+- REST API Integration
+- Dashboard Development
+- Report Development
+- Workflow Automation
 
 ---
 
-### Associate Software Engineer Trainee (Part-Time)
+## Associate Software Engineer Trainee
 
-**RK Techsoft India**
+RK Techsoft India
 
-**September 2023 – January 2025**
+📅 Sep 2023 - Jan 2025
 
-**Key Responsibilities**
-
-* Participated in the complete Software Development Life Cycle (SDLC).
-* Developed web applications using PHP and MySQL.
-* Assisted in system analysis and software implementation.
-* Designed website layouts and digital advertisement materials.
-* Managed client support using administrative tools.
+- PHP Development
+- MySQL
+- Website Development
+- System Analysis
+- Client Support
 
 ---
 
-## Projects
+# Education
 
-### Sign Language Interpreter
+## Master of Computer Applications
 
-**Technologies:** Python, MediaPipe, OpenCV, NumPy
+University of Madras
 
-* Developed a real-time sign language recognition system.
-* Converted hand gestures into text using computer vision techniques.
-* Improved accessibility for individuals with hearing impairments through accurate gesture recognition.
+**Sep 2025 - May 2027**
 
----
-
-### E-Commerce Website
-
-**Technologies:** PHP, HTML, CSS, JavaScript, MySQL
-
-* Developed a complete e-commerce platform with secure authentication.
-* Implemented product catalog, shopping cart, and payment workflow.
-* Built an administrative dashboard for inventory and sales management.
+Currently Pursuing
 
 ---
 
-### Static Website Development
+## B.Sc Computer Science with Data Science
 
-**Technologies:** PHP, HTML, CSS, JavaScript
+St Thomas College of Arts and Science
 
-* Developed responsive and SEO-friendly websites.
-* Improved website performance and user experience.
-* Designed modern and interactive user interfaces.
+CGPA **8.38**
 
 ---
 
-## Publications
+# Skills
 
-### Analysis of Cryptography on Blockchain and Encryption Technology
-
-**International Conference on Cyber and Information Security (ICCIS 2023)**
-
-**ISBN:** 978-93-94412-20-0
-
-**October 2023**
-
----
-
-## Certifications
-
-* NPTEL – Python for Data Science
-* NPTEL – Introduction to Machine Learning (Tamil)
+| Frontend | Backend | Database | Tools |
+|-----------|----------|-----------|---------|
+| React.js | PHP | MySQL | Git |
+| HTML | Python | MongoDB | Docker |
+| CSS | Java | MariaDB | Linux |
+| TypeScript | ERPNext | SQL | Tableau |
 
 ---
 
-## Contact
+# Featured Projects
 
-**Email:** [deepakkjc088@gmail.com](mailto:deepakkjc088@gmail.com)
+## Sign Language Interpreter
 
-**Phone:** +91 9751523553
+Python • OpenCV • Mediapipe
 
-**Location:** Chennai, Tamil Nadu, India
+Real-time hand gesture recognition system for converting sign language into text.
 
-**LinkedIn:** https://www.linkedin.com/in/dk088
+---
 
-**Portfolio:** https://dk-088.github.io/portfolio
+## ERPNext Customization
+
+React.js • ERPNext • Frappe
+
+Custom CRM modules, reports, dashboards and workflow automation.
+
+---
+
+## E-Commerce Website
+
+PHP • MySQL • JavaScript
+
+Complete shopping platform with authentication and admin dashboard.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DK-088&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-088&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DK-088&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DK-088&theme=github-compact"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DK-088&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# Certifications
+
+- Python for Data Science (NPTEL)
+- Introduction to Machine Learning (NPTEL)
+
+---
+
+# Publications
+
+Analysis of Cryptography on Blockchain and Encryption Technology
+
+ICCIS 2023
+
+ISBN: 978-93-94412-20-0
+
+---
+
+# Connect with Me
+
+<p align="center">
+
+<a href="mailto:deepakkjc088@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dk088">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://dk-088.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DK-088&style=for-the-badge"/>
+
+</p>
