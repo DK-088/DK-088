@@ -52,7 +52,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 **Innoblitz Technologies and Systems Pvt. Ltd.**
 
-📅 Sep 2025 - Present
+Sep 2025 - Present
 
 - React.js Development
 - ERPNext Customization
@@ -68,7 +68,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 RK Techsoft India
 
-📅 Sep 2023 - Jan 2025
+Sep 2023 - Jan 2025
 
 - PHP Development
 - MySQL
@@ -132,48 +132,6 @@ Custom CRM modules, reports, dashboards and workflow automation.
 PHP • MySQL • JavaScript
 
 Complete shopping platform with authentication and admin dashboard.
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DK-088&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-088&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DK-088&theme=tokyonight"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DK-088&theme=github-compact"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DK-088&theme=algolia&column=4"/>
-
-</p>
 
 ---
 
