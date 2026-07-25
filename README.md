@@ -1,79 +1,195 @@
 # Deepak K
 
-## 👨‍💻 Data Scientist | Junior Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dk088)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://dk-088.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:deepakkjc088@gmail.com)
-
-### 🙋‍♂️ About Me
-
-Enthusiastic Computer Science student with hands-on experience as a Full Stack Developer. I blend technical programming skills with data science expertise to create impactful solutions. Currently pursuing a B.Sc in Computer Science with Data Science, I'm passionate about turning data insights into practical applications.
-
-### 🛠️ Tech Stack
-
-```
-Languages:                HTML, CSS, JavaScript, TypeScript, PHP, Python, Java
-Frameworks & Libraries:   Angular, Bootstrap, Hibernate, Spring 
-Data Science:             NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Mediapipe
-Databases:                MySQL, MongoDB
-Tools:                    Tableau, Microsoft Excel, Adobe Photoshop, PhpMyAdmin
-
-```
-
-### 🎓 Education
-
-- **B.Sc in Computer Science with Data Science** (2022 - 2025)  
-  St Thomas College of Arts and Science, Chennai  
-  University of Madras | CGPA: 8.38
-
-### 💼 Experience
-
-#### Associate Software Engineer Trainee (Part-Time)
-**RK Techsoft India** | *Sep 2023 - Jan 2025*
-- Participated in full software development lifecycle from analysis to implementation
-- Developed technical skills in PHP and MySQL with strong system analysis foundation
-- Created advertisement designs and structured website layouts
-- Utilized admin tools for client communication and reporting
-
-### 🚀 Projects
-
-#### Sign-Language-Interpreter
-*Python, Mediapipe, OpenCV, NumPy*
-- Developed a real-time application converting hand gestures into text
-- Enhanced communication capabilities for individuals with hearing impairments
-- Implemented high-accuracy gesture detection and recognition
-
-#### E-commerce Website
-*PHP, HTML, CSS, JavaScript, MySQL*
-- Built a complete e-commerce platform with user authentication
-- Implemented dynamic product catalog, shopping cart, and payment gateway
-- Created admin dashboard for product management and sales reporting
-
-#### Static Websites
-*PHP, HTML, CSS, JavaScript*
-- Developed responsive static websites with improved load times (30% faster)
-- Optimized for cross-browser compatibility and SEO (40% increase in organic traffic)
-- Designed clean interfaces with interactive features (25% increase in user engagement)
-
-### 📝 Publications & Achievements
-
-- **Conference Presentation** (Oct 2023)  
-  "Analysis of Cryptography on Blockchain and Encryption Technology"  
-  International Conference on Cyber and Information Security (ICCIS) - 2023  
-  ISBN: 978-93-94412-20-0
-
-- **NPTEL Certifications** (2024)
-  - Python for Data Science
-  - Introduction to Machine Learning (Tamil)
-
-
-### 📫 Contact Me
-
-- Email: deepakkjc088@gmail.com
-- Phone: +91 9751523553
-- Location: Chennai, Tamil Nadu, India
+## Data Scientist | Software Engineer
 
 ---
 
-⭐️ From [DEEPAK K](https://github.com/DK-088)
+## About Me
+
+Software Engineer with experience in React.js, ERPNext, Frappe Framework, and Full Stack Web Development. Passionate about building scalable web applications, customizing ERP solutions, and developing data-driven applications. Strong foundation in Data Science, software development, and database management with an interest in solving real-world business problems through technology.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* Python
+* JavaScript
+* TypeScript
+* Java
+* PHP
+* HTML5
+* CSS3
+
+### Frameworks & Libraries
+
+* React.js
+* Angular
+* Bootstrap
+* Spring Framework
+* Frappe Framework
+* ERPNext
+
+### Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* OpenCV
+* MediaPipe
+
+### Databases
+
+* MySQL
+* MongoDB
+* MariaDB
+
+### Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* Docker
+* Linux
+* Tableau
+* Microsoft Excel
+
+### Core Skills
+
+* ERPNext Customization
+* Frappe Application Development
+* Full Stack Development
+* API Integration
+* Dashboard Development
+* Report Development
+* Database Design
+* Software Analysis
+* Problem Solving
+* System Optimization
+
+---
+
+## Education
+
+### Master of Computer Applications (MCA)
+
+**University of Madras – Institute of Distance Education**
+
+**September 2025 – May 2027** *(Pursuing)*
+
+Currently pursuing a Master of Computer Applications (MCA) with a focus on Software Development, Database Management, Web Technologies, Data Analytics, and Emerging Computing Technologies. Continuously enhancing technical expertise through academic coursework, hands-on projects, and industry-oriented learning in Python, SQL, React.js, ERPNext, and Data Science.
+
+---
+
+### Bachelor of Science in Computer Science with Data Science
+
+**St. Thomas College of Arts and Science, Chennai**
+
+University of Madras
+
+**2022 – 2025**
+
+**CGPA:** 8.38
+
+---
+
+## Professional Experience
+
+### Software Engineer
+
+**Innoblitz Technologies and Systems Pvt. Ltd.**
+
+**September 2025 – Present**
+
+Chennai, Tamil Nadu, India (On-site)
+
+**Key Responsibilities**
+
+* Develop modern web applications using React.js and MySQL with a focus on performance and scalability.
+* Customize ERPNext and Frappe applications based on business requirements.
+* Design and develop custom ERP modules, reports, dashboards, and workflows.
+* Integrate REST APIs and third-party services to automate business processes.
+* Optimize existing applications, reducing manual work and improving operational efficiency.
+* Collaborate with cross-functional teams throughout the software development lifecycle.
+
+---
+
+### Associate Software Engineer Trainee (Part-Time)
+
+**RK Techsoft India**
+
+**September 2023 – January 2025**
+
+**Key Responsibilities**
+
+* Participated in the complete Software Development Life Cycle (SDLC).
+* Developed web applications using PHP and MySQL.
+* Assisted in system analysis and software implementation.
+* Designed website layouts and digital advertisement materials.
+* Managed client support using administrative tools.
+
+---
+
+## Projects
+
+### Sign Language Interpreter
+
+**Technologies:** Python, MediaPipe, OpenCV, NumPy
+
+* Developed a real-time sign language recognition system.
+* Converted hand gestures into text using computer vision techniques.
+* Improved accessibility for individuals with hearing impairments through accurate gesture recognition.
+
+---
+
+### E-Commerce Website
+
+**Technologies:** PHP, HTML, CSS, JavaScript, MySQL
+
+* Developed a complete e-commerce platform with secure authentication.
+* Implemented product catalog, shopping cart, and payment workflow.
+* Built an administrative dashboard for inventory and sales management.
+
+---
+
+### Static Website Development
+
+**Technologies:** PHP, HTML, CSS, JavaScript
+
+* Developed responsive and SEO-friendly websites.
+* Improved website performance and user experience.
+* Designed modern and interactive user interfaces.
+
+---
+
+## Publications
+
+### Analysis of Cryptography on Blockchain and Encryption Technology
+
+**International Conference on Cyber and Information Security (ICCIS 2023)**
+
+**ISBN:** 978-93-94412-20-0
+
+**October 2023**
+
+---
+
+## Certifications
+
+* NPTEL – Python for Data Science
+* NPTEL – Introduction to Machine Learning (Tamil)
+
+---
+
+## Contact
+
+**Email:** [deepakkjc088@gmail.com](mailto:deepakkjc088@gmail.com)
+
+**Phone:** +91 9751523553
+
+**Location:** Chennai, Tamil Nadu, India
+
+**LinkedIn:** https://www.linkedin.com/in/dk088
+
+**Portfolio:** https://dk-088.github.io/portfolio
