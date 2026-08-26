@@ -141,26 +141,27 @@ ISBN: 978-93-94412-20-0
 
 ---
 
-# Connect with Me
+# 🌐 Connect with Me
 
 <p align="center">
-
-<a href="mailto:deepakkjc088@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dk088">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://dk-088.github.io/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
+  <a href="mailto:deepakkjc088@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dk088">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dk-088.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/DK-088">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DK-088&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=DK-088&style=for-the-badge"/>
-
+<p align="center">
+  <i>💬 Open to collaboration, ideas, and interesting projects.</i>
 </p>
