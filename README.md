@@ -99,6 +99,14 @@ CGPA **8.38**
 
 # Featured Projects
 
+## GhostPay
+
+React.js • Node.js • MongoDB • Blockchain
+
+GhostPay — a privacy-focused digital payment platform designed for secure, fast, and seamless transactions.
+
+---
+
 ## Sign Language Interpreter
 
 Python • OpenCV • Mediapipe
@@ -112,14 +120,6 @@ Real-time hand gesture recognition system for converting sign language into text
 React.js • ERPNext • Frappe
 
 Custom CRM modules, reports, dashboards and workflow automation.
-
----
-
-## E-Commerce Website
-
-PHP • MySQL • JavaScript
-
-Complete shopping platform with authentication and admin dashboard.
 
 ---
 
