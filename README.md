@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak K</h1>
+<h1 align="center">Hi Folks, I'm Deepak K</h1>
 
 <h3 align="center">
 Software Engineer • React.js Developer • ERPNext Developer • Data Science Enthusiast
@@ -11,9 +11,8 @@ Software Engineer • React.js Developer • ERPNext Developer • Data Science 
 <p align="center">
   <img src="./git%20banner.png" alt="Deepak K GitHub Banner" width="100%">
 </p>
----
 
-# About Me
+About Me
 
 Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framework**, **Python**, and **Data Science**.
 
