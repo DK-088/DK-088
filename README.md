@@ -108,7 +108,7 @@ ICCIS 2023
 ISBN: 978-93-94412-20-0
 
 
-# 🌐 Connect with Me
+# Connect with Me
 <p align="center">
   <a href="mailto:deepakkjc088@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
