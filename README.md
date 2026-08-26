@@ -39,7 +39,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="70%" valign="top">
 
 <h3>Software Engineer</h3>
 
@@ -60,7 +60,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 </td>
 
-<td width="100%" valign="top">
+<td width="70%" valign="top">
 
 <h3>Associate Software Engineer Trainee</h3>
 
