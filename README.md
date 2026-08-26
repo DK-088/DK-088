@@ -65,17 +65,6 @@ CGPA **8.38**
 
 ---
 
-# Skills
-
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|---------|
-| React.js | PHP | MySQL | Git |
-| HTML | Python | MongoDB | Docker |
-| CSS | Java | MariaDB | Linux |
-| TypeScript | ERPNext | SQL | Tableau |
-
----
-
 # Featured Projects
 
 ## GhostPay
