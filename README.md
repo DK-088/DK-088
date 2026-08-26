@@ -139,7 +139,6 @@ ICCIS 2023
 
 ISBN: 978-93-94412-20-0
 
----
 
 # 🌐 Connect with Me
 <p align="center">
