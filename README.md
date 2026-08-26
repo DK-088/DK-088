@@ -8,6 +8,9 @@ Software Engineer • React.js Developer • ERPNext Developer • Data Science 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;React.js+Developer;ERPNext+Developer;Full+Stack+Developer;Data+Science+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="./git%20banner.png" alt="Deepak K GitHub Banner" width="100%">
+</p>
 ---
 
 # About Me
