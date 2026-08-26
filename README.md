@@ -34,14 +34,14 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 ---
 
-<h2>💼 Professional Experience</h2>
+<h2>Professional Experience</h2>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💻 Software Engineer</h3>
+<h3>Software Engineer</h3>
 
 <p>
 <b>Innoblitz Technologies and Systems Pvt. Ltd.</b><br>
@@ -62,7 +62,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 <td width="50%" valign="top">
 
-<h3>🚀 Associate Software Engineer Trainee</h3>
+<h3>Associate Software Engineer Trainee</h3>
 
 <p>
 <b>RK Techsoft India</b><br>
