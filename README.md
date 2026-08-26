@@ -34,35 +34,53 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 ---
 
-# Professional Experience
+<h2>💼 Professional Experience</h2>
 
-## Software Engineer
+<table>
+<tr>
 
-**Innoblitz Technologies and Systems Pvt. Ltd.**
+<td width="50%" valign="top">
 
-Sep 2025 - Present
+<h3>💻 Software Engineer</h3>
 
-- React.js Development
-- ERPNext Customization
-- Frappe Framework
-- REST API Integration
-- Dashboard Development
-- Report Development
-- Workflow Automation
+<p>
+<b>Innoblitz Technologies and Systems Pvt. Ltd.</b><br>
+<code>Sep 2025 – Present</code>
+</p>
 
----
+<ul>
+<li>React.js Development</li>
+<li>ERPNext Customization</li>
+<li>Frappe Framework</li>
+<li>REST API Integration</li>
+<li>Dashboard Development</li>
+<li>Report Development</li>
+<li>Workflow Automation</li>
+</ul>
 
-## Associate Software Engineer Trainee
+</td>
 
-RK Techsoft India
+<td width="50%" valign="top">
 
-Sep 2023 - Jan 2025
+<h3>🚀 Associate Software Engineer Trainee</h3>
 
-- PHP Development
-- MySQL
-- Website Development
-- System Analysis
-- Client Support
+<p>
+<b>RK Techsoft India</b><br>
+<code>Sep 2023 – Jan 2025</code>
+</p>
+
+<ul>
+<li>PHP Development</li>
+<li>MySQL</li>
+<li>Website Development</li>
+<li>System Analysis</li>
+<li>Client Support</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
