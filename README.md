@@ -144,15 +144,15 @@ ISBN: 978-93-94412-20-0
 # 🌐 Connect with Me
 <p align="center">
   <a href="mailto:deepakkjc088@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20EMAIL-7C3AED?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/dk088">
-    <img src="https://img.shields.io/badge/↗%20LINKEDIN-22D3EE?style=for-the-badge&logoColor=0A101F" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://dk-088.github.io/portfolio">
-    <img src="https://img.shields.io/badge/◉%20PORTFOLIO-10B981?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/DK-088">
-    <img src="https://img.shields.io/badge/⌘%20GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=0A101F" alt="GitHub" />
   </a>
 </p>
