@@ -12,15 +12,15 @@ Software Engineer • React.js Developer • ERPNext Developer • Data Science 
   <img src="./git%20banner.png" alt="Deepak K GitHub Banner" width="100%">
 </p>
 
-About Me
+# About Me
 
 Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framework**, **Python**, and **Data Science**.
 
-- 🔭 Software Engineer @ Innoblitz Technologies
-- 🎓 Pursuing MCA - University of Madras
-- 💻 React.js & ERPNext Developer
-- 📊 Data Science Enthusiast
-- 🌱 Learning AI, Machine Learning & Cloud
+- Software Engineer @ Innoblitz Technologies
+- Pursuing MCA - University of Madras
+- React.js & ERPNext Developer
+- Data Science Enthusiast
+- Learning AI, Machine Learning & Cloud
 
 ---
 
