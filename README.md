@@ -124,7 +124,8 @@ Complete shopping platform with authentication and admin dashboard.
 ---
 
 # Certifications
-
+- Oracle Cloud Infrastructure Architecture
+- MongoDB Node.js Developer Path
 - Python for Data Science (NPTEL)
 - Introduction to Machine Learning (NPTEL)
 
