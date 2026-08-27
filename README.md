@@ -110,19 +110,21 @@ ISBN: 978-93-94412-20-0
 
 <h2 align="center">Connect with Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <a href="mailto:deepakkjc088@gmail.com">
         <img src="./email_icon.png" alt="Email" />
       </a>
     </td>
-    <td align="center">
+
+    <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/dk088">
         <img src="./linkedin_icon.png" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center">
+
+    <td align="center" style="border: none;">
       <a href="https://dk-088.github.io/portfolio">
         <img src="./portfolio_icon.png" alt="Portfolio" />
       </a>
