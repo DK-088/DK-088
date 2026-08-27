@@ -53,7 +53,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
   <tr>
     <td valign="top">
-      <br>
+      Developed web apps using React.js, and MySQL with optimized performance.
       • React.js Development<br>
       • ERPNext Customization<br>
       • Frappe Framework<br>
