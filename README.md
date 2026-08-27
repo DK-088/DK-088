@@ -80,9 +80,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 University of Madras
 
-**Sep 2025 - May 2027**
-
-Currently Pursuing
+**Sep 2025 - May 2027** - Currently Pursuing
 
 ---
 
