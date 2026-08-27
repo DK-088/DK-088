@@ -96,35 +96,77 @@ CGPA **8.38**
 
 # Featured Projects
 
-## GhostPay
+<table width="100%">
+<tr>
 
-React.js • Node.js • MongoDB • Blockchain
+<td width="33%" valign="top">
 
-GhostPay — a privacy-focused digital payment platform designed for secure, fast, and seamless transactions.
+<h3 align="center">👻 GhostPay</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-## Sign Language Interpreter
+<p align="center">
+Privacy-focused digital payment platform designed for secure, fast, and seamless transactions.
+</p>
 
-Python • OpenCV • Mediapipe
+<p align="center">
+<a href="https://github.com/DK-088">
+  <strong>View Project →</strong>
+</a>
+</p>
 
-Real-time hand gesture recognition system for converting sign language into text.
+</td>
 
----
+<td width="33%" valign="top">
 
-## ERPNext Customization
+<h3 align="center">🤟 Sign Language Interpreter</h3>
 
-React.js • ERPNext • Frappe
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white" />
+</p>
 
-Custom CRM modules, reports, dashboards and workflow automation.
+<p align="center">
+Real-time hand gesture recognition system that converts sign language into text.
+</p>
 
----
+<p align="center">
+<a href="https://github.com/DK-088">
+  <strong>View Project →</strong>
+</a>
+</p>
 
-# Certifications
-- Oracle Cloud Infrastructure Architecture
-- MongoDB Node.js Developer Path
-- Python for Data Science (NPTEL)
-- Introduction to Machine Learning (NPTEL)
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚡ ERPNext Customization</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white" />
+</p>
+
+<p align="center">
+Custom CRM modules, reports, dashboards, and workflow automation.
+</p>
+
+<p align="center">
+<a href="https://github.com/DK-088">
+  <strong>View Project →</strong>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
