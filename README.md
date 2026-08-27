@@ -34,7 +34,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 ---
 
-## Professional Experience
+# Professional Experience
 
 <table width="100%">
   <tr>
@@ -71,6 +71,8 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
     </td>
   </tr>
 </table>
+
+---
 
 # Education
 
