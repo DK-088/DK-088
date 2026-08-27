@@ -124,9 +124,9 @@ Privacy-focused digital payment platform designed for secure, fast, and seamless
 <h3 align="center">Sign Language Interpreter</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=plastic&logo=google&logoColor=white" />
 </p>
 
 <p align="center">
@@ -146,9 +146,9 @@ Real-time hand gesture recognition system that converts sign language into text 
 <h3 align="center">ERPNext Customization</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=plastic&logo=erpnext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=plastic&logo=frappe&logoColor=white" />
 </p>
 
 <p align="center">
