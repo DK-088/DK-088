@@ -130,7 +130,7 @@ Privacy-focused digital payment platform designed for secure, fast, and seamless
 </p>
 
 <p align="center">
-Real-time hand gesture recognition system that converts sign language into text with accurate detection and processing.
+Real-time hand gesture recognition system that converts sign language into text with accurate detection.
 </p>
 
 <p align="center">
