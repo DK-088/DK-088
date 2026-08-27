@@ -101,7 +101,7 @@ CGPA **8.38**
 
 <td width="33%" valign="top">
 
-<h3 align="center">👻 GhostPay</h3>
+<h3 align="center">GhostPay</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -123,7 +123,7 @@ Privacy-focused digital payment platform designed for secure, fast, and seamless
 
 <td width="33%" valign="top">
 
-<h3 align="center">🤟 Sign Language Interpreter</h3>
+<h3 align="center">Sign Language Interpreter</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -145,7 +145,7 @@ Real-time hand gesture recognition system that converts sign language into text.
 
 <td width="33%" valign="top">
 
-<h3 align="center">⚡ ERPNext Customization</h3>
+<h3 align="center">ERPNext Customization</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -177,6 +177,8 @@ Analysis of Cryptography on Blockchain and Encryption Technology
 ICCIS 2023
 
 ISBN: 978-93-94412-20-0
+
+---
 
 
 <h2 align="center">Connect with Me</h2>
