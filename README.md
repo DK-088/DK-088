@@ -117,13 +117,11 @@ ISBN: 978-93-94412-20-0
         <img src="./email_icon.png" alt="Email" />
       </a>
     </td>
-
     <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/dk088">
         <img src="./linkedin_icon.png" alt="LinkedIn" />
       </a>
     </td>
-
     <td align="center" style="border: none;">
       <a href="https://dk-088.github.io/portfolio">
         <img src="./portfolio_icon.png" alt="Portfolio" />
