@@ -170,6 +170,14 @@ Custom CRM modules, reports, dashboards, and workflow automation for streamlined
 
 ---
 
+# Certifications
+- Oracle Cloud Infrastructure Architecture
+- MongoDB Node.js Developer Path
+- Python for Data Science (NPTEL)
+- Introduction to Machine Learning (NPTEL)
+
+---
+
 # Publications
 
 Analysis of Cryptography on Blockchain and Encryption Technology
