@@ -114,7 +114,7 @@ Privacy-focused digital payment platform designed for secure, fast, and seamless
 </p>
 
 <p align="center">
-  <a href="https://github.com/DK-088">
+  <a href="https://github.com/DK-088?tab=repositories">
     <img src="./view_project_icon.png" alt="View Project" width="140" />
   </a>
 </p>
@@ -136,7 +136,7 @@ Real-time hand gesture recognition system that converts sign language into text 
 </p>
 
 <p align="center">
-  <a href="https://github.com/DK-088">
+  <a href="https://github.com/DK-088?tab=repositories">
     <img src="./view_project_icon.png" alt="View Project" width="140" />
   </a>
 </p>
@@ -158,7 +158,7 @@ Custom CRM modules, reports, dashboards, and workflow automation for streamlined
 </p>
 
 <p align="center">
-  <a href="https://github.com/DK-088">
+  <a href="https://github.com/DK-088?tab=repositories">
     <img src="./view_project_icon.png" alt="View Project" width="140" />
   </a>
 </p>
