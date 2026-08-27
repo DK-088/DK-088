@@ -114,11 +114,9 @@ ISBN: 978-93-94412-20-0
   <a href="mailto:deepakkjc088@gmail.com">
     <img src="./email_icon.png" alt="Email" width="180" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/dk088">
     <img src="./linkedin_icon.png" alt="LinkedIn" width="180" />
   </a>
-  &nbsp;
   <a href="https://dk-088.github.io/portfolio">
     <img src="./portfolio_icon.png" alt="Portfolio" width="180" />
   </a>
