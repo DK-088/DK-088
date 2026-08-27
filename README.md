@@ -77,7 +77,6 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
     </td>
   </tr>
 </table>
----
 
 # Education
 
