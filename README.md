@@ -154,7 +154,7 @@ Real-time hand gesture recognition system that converts sign language into text 
 </p>
 
 <p align="center">
-Custom CRM modules, reports, dashboards, and workflow automation.
+Custom CRM modules, reports, dashboards, and workflow automation for streamlined business operations.
 </p>
 
 <p align="center">
