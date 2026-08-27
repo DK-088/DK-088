@@ -44,10 +44,10 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
   <tr>
     <td align="left">
-      <strong>Innoblitz Technologies and Systems Pvt. Ltd.</strong><code>Sep 2025 – Present</code>
+      <strong>Innoblitz Technologies and Systems Pvt. Ltd.</strong>&nbsp;<code>Sep 2025 – Present</code>
     </td>
     <td align="left">
-      <strong>RK Techsoft India</strong><code>May 2023 – Apr 2025</code>
+      <strong>RK Techsoft India</strong>&nbsp;<code>May 2023 – Apr 2025</code>
     </td>
   </tr>
 
