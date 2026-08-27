@@ -44,10 +44,10 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
   <tr>
     <td align="left">
-      <strong>Innoblitz Technologies and Systems Pvt. Ltd.</strong>&nbsp; Chennai, Tamil Nadu · On-site
+      <strong>Innoblitz Technologies and Systems Pvt. Ltd.</strong><br>Chennai, Tamil Nadu, India · On-site
     </td>
     <td align="left">
-      <strong>RK Techsoft India</strong>&nbsp; Chennai, Tamil Nadu · On-site
+      <strong>RK Techsoft India</strong><br>Chennai, Tamil Nadu, India · On-site
     </td>
   </tr>
 
