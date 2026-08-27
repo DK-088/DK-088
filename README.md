@@ -28,7 +28,7 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,ts,py,opencv,matlab,java,spring,php,html,css,materialui,tailwind,mysql,sqlite,mongodb,redis,docker,git,linux"/>
+<img src="https://skillicons.dev/icons=react,js,nodejs,ts,py,opencv,matlab,java,spring,php,html,css,materialui,tailwind,mysql,sqlite,mongodb,redis,docker,git,linux"/>
 
 </p>
 
