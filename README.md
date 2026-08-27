@@ -102,9 +102,9 @@ CGPA **8.38**
 <h3 align="center">GhostPay</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="center">
