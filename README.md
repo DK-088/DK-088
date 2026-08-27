@@ -108,21 +108,24 @@ ICCIS 2023
 ISBN: 978-93-94412-20-0
 
 
-# Connect with Me
+<h2 align="center">Connect with Me</h2>
+
 <p align="center">
+
   <a href="mailto:deepakkjc088@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./email_icon.png" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/dk088">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./linkedin_icon.png" alt="LinkedIn" />
   </a>
 
   <a href="https://dk-088.github.io/portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="./portfolio_icon.png" alt="Portfolio" />
   </a>
 
   <a href="https://github.com/DK-088">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="./git_banner.png" alt="GitHub" />
   </a>
+
 </p>
