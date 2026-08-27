@@ -38,8 +38,8 @@ Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framewo
 
 <table width="100%">
   <tr>
-    <th align="left">Software Engineer________________________________________________________</th>
-    <th align="left">Associate Software Engineer______________________________________________</th>
+    <th align="left">Software Engineer_____________________________________________</th>
+    <th align="left">Associate Software Engineer___________________________________</th>
   </tr>
 
   <tr>
