@@ -12,7 +12,7 @@ Software Engineer • React.js Developer • ERPNext Developer • Data Science 
   <img src="./git%20banner.png" alt="Deepak K GitHub Banner" width="100%">
 </p>
 
-# About Me
+<h2>About Me</h2>
 
 Software Engineer with experience in **React.js**, **ERPNext**, **Frappe Framework**, **Python**, and **Data Science**.
 
